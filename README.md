@@ -39,9 +39,8 @@
 ### 📫 Let's connect
 
 - 💼 **Open to 2026 opportunities** — front-end / web developer roles (Seattle or remote).
-- 🐙 Here on GitHub: [@SubchiBeats](https://github.com/SubchiBeats)
-<!-- Add your links so people can reach you:
-- ✉️  Email: your@email.com
-- 🔗 LinkedIn: https://linkedin.com/in/your-handle
+- 🔗 LinkedIn: [in/sahib.ubhi](https://www.linkedin.com/in/sahib.ubhi)
+- 🐙 GitHub: [@SubchiBeats](https://github.com/SubchiBeats)
+<!-- Portfolio coming soon — add it here once it's live:
 - 🌐 Portfolio: https://your-site.com
 -->
